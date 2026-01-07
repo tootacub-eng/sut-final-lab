@@ -9,7 +9,7 @@ func TestBook(t *testing.T){
 
 	book := Book{
 		Title: "anime",
-		Price: "599",
+		Price: 599,
 		Code: "BK123456",
 	}
 
